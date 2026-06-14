@@ -25,6 +25,7 @@
 ![Three.js](https://img.shields.io/badge/-Three.js-%23000000?style=flat-square&logo=threedotjs&logoColor=white)
 
 2. Languages and more
+
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -34,6 +35,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white)
 
 3. Embedded, Hardware & 3D Design
+
 ![ESP--IDF](https://img.shields.io/badge/-ESP--IDF-%23E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-%2300979D?style=flat-square&logo=arduino&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-%23DC1928?style=flat-square&logo=solidworks&logoColor=white)
@@ -44,6 +46,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
 
 4. Simulation & Electronics Design
+
 ![MATLAB](https://img.shields.io/badge/-MATLAB-%23ED7D31?style=flat-square&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/-Simulink-%23225A9B?style=flat-square&logo=mathworks&logoColor=white)
 ![LTspice](https://img.shields.io/badge/-LTspice-%23002F6C?style=flat-square&logo=linear-technology&logoColor=white)
@@ -53,6 +56,7 @@
 ![EasyEDA](https://img.shields.io/badge/-EasyEDA-%23006699?style=flat-square&logo=easyeda&logoColor=white)
 
 5. DevOps, Cloud & Hosting
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Google_Cloud](https://img.shields.io/badge/-GCP-%234285F4?style=flat-square&logo=googlecloud&logoColor=white)
