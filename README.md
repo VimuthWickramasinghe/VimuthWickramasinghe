@@ -61,4 +61,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Google_Cloud](https://img.shields.io/badge/-GCP-%234285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-%23F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
 ---
